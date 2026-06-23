@@ -30,8 +30,8 @@ More projects will be added as I progress through JS fundamentals.
 🛠️ Tech Used
 
 
-Vanilla JavaScript (No frameworks)
-HTML5
+Vanilla JavaScript (No frameworks) <br>
+HTML5 <br>
 CSS3 (where applicable)
 
 
